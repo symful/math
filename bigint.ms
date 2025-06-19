@@ -575,7 +575,7 @@ end function
 
 
 
-if 0 == 0 then
+if 0 == 1 then
 	// Testing Framework
 	Test = {}
 	Test.totalTests = 0
